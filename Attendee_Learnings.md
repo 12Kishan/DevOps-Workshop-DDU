@@ -22,3 +22,5 @@ For instance;
 7.**Name:** Setu Bhatt<br>
   **Learnings:** In the DevOps Docker session, I learned how Docker facilitates containerization, enabling consistent and efficient application deployment across various environments.Overall, it was incredibly 
                  insightful session.
+8.**Name:** Kishan Zalavadia<br>
+  **Learnings:** In the DevOps Docker session , I receive answers to my questions. Additionally, I enjoy having friendly conversations.
